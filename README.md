@@ -1,8 +1,9 @@
 Link to the presentation: ["LINK"](https://www.youtube.com/watch?v=A7_2WN-1Gno)
 
-Working hours: 6h
+Work time: 6h
 
-This is a Blackjack game with additional mathematical features. By skillfully using them, a player can increase their expected value of winning to be above the "house," as shown in the presentation.
+This is a Blackjack game with additional mathematical features. By skillfully using them, a player can increase their expected value of winning to be above the casino as shown in the presentation.
+The mathematical functions work by utilizing a card counting strategy.
 The first function indicates the probability of getting a "bust" if another card is added.
 The second function tells us the probability of winning if we choose the stand option.
 
