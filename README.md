@@ -1,4 +1,4 @@
-Link to the presentation: [["LINK"]([https://www.youtube.com/watch?v=A7_2WN-1Gno](https://youtu.be/DOnc1WcXy8M))](https://www.youtube.com/watch?v=DOnc1WcXy8M&ab_channel=g42)
+Link to the presentation: [([https://www.youtube.com/watch?v=A7_2WN-1Gno](https://youtu.be/DOnc1WcXy8M))](https://www.youtube.com/watch?v=DOnc1WcXy8M&ab_channel=g42)
 
 Work time: 6h
 
