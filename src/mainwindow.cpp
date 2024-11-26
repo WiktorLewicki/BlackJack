@@ -11,6 +11,7 @@
 #include <QTimer>
 #include <QSlider>
 #include <QVBoxLayout>
+#include <QDialogButtonBox>
 Game gra(0);
 bool cp=false;
 int gracz=1, krupier=1;
