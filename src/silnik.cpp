@@ -117,6 +117,7 @@ public:
                 return i;
             }
         }
+        return -1;
     }
     void new_game(int stawka){
         hands.clear();
