@@ -1,6 +1,6 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include "silnik.cpp"
+#include "silnik.h"
 #include <QApplication>
 #include <QInputDialog>
 #include <QMessageBox>
